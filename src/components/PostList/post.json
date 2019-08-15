@@ -1,0 +1,22 @@
+[
+  {
+    "_id": 1,
+    "user": {
+      "name": "Dalton",
+      "image": "#"
+    },
+    "data": {
+      "content": "COMPONENTS!! "
+    }
+  },
+  {
+    "_id": 2,
+    "user": {
+      "name": "Alex",
+      "image": "#"
+    },
+    "data": {
+      "content": "WHOA MAN. React. Cool stuff. "
+    }
+  }
+]
