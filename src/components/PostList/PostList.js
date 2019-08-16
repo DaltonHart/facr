@@ -14,6 +14,9 @@ class PostList extends React.Component {
   };
 
   displayPosts = posts => {
+    if (this.props.name) {
+      posts = posts.filter(post => post.user.name === this.props.name);
+    }
     // loop through posts
     return posts.map(postData => {
       // for every post create a post component

@@ -3,7 +3,7 @@
     "_id": 1,
     "user": {
       "name": "Dalton",
-      "image": "#"
+      "image": "https://i.pinimg.com/originals/0e/78/ef/0e78ef64b769be96ca88a98fdda52709.jpg"
     },
     "data": {
       "content": "COMPONENTS!! "
@@ -13,7 +13,7 @@
     "_id": 2,
     "user": {
       "name": "Alex",
-      "image": "#"
+      "image": "https://flash.comiccruncher.com/images/characters/cffe228e.jpg"
     },
     "data": {
       "content": "WHOA MAN. React. Cool stuff. ",
