@@ -4,3 +4,16 @@
   background: white;
   margin: 1em 0;
 }
+.post header {
+  display: flex;
+}
+
+.post header img {
+  width: 3rem;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.post-content {
+  border-bottom: solid 1px rgb(235, 235, 235);
+}
