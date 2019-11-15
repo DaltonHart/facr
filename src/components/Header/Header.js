@@ -13,9 +13,11 @@ const Header = props => (
     <h4>A social place for devs.</h4>
     <nav>
       <ul>
+      <Link to="/">
         <li>
-          <Link to="/">Home</Link>
+          Home
         </li>
+        </Link>
         <li onClick={() => handleUserValidation(props)}>Profile</li>
       </ul>
     </nav>
